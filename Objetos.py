@@ -19,7 +19,8 @@ pd.set_option("display.max_rows", 100)
 pd.set_option('display.width', desired_width)
 pd.set_option('display.colheader_justify', 'rigth')
 
-Diario = 'Diario.csv'
+# Diario = 'Diario.csv'
+Diario = 'Diario(muestra).csv'
 Destacado = 'Destacados.csv'
 Combinaciones_para_tags = ['S', 'A', 'P', r'{A, S, P} + {A, S, P}']
 
