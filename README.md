@@ -21,7 +21,7 @@ Los pasos a seguir son:
   5. Cuando se esté seguro de que los datos a cargar son correctos se carga a un csv con la opción correspondiente.
   6. En la carga se debe especificar si el día fue destacado o no (Si significó algo para usted). De serlo se cargará una aclaración y un TAG que identifique el tipo de día destacado.
 
-De no seguir el orden pre-establecido saltarán distintos avisos de ERROR.
+> De no seguir el orden pre-establecido saltarán distintos avisos de ERROR.
 
 **En Descripción se ingresará el TAG que identifica a la acción. En caso de realizar más de 1 acción al mismo tiempo se deberá
 agregar de la siguente manera: TAG1 + TAG2**
